@@ -20,19 +20,29 @@ body {
     align-items: center;
 }
 
-ul {
-    list-style-type: none;
-    font-family: "Roboto", sans-serif;
-}
-
 .header_container {
     font-size: 48px;
     font-family: "Smythe", sans-serif;
     display: flex;
     align-items: center;
-    gap: 16px
+    gap: 16px;
 }
 
 .recipes_container { 
+    margin-top: 36px;
     display: flex;
+    gap: 48px;
+}
+
+.lasagna_container,
+.creolegumbo_container, 
+.meatloaf_container {
+    text-align: center;
+    font-family: Smythe;
+    font-size: 48px;
+}
+
+.food_image {
+    border: 10px solid black;
+    border-radius: 15%;
 }

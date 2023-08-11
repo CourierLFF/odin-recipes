@@ -47,3 +47,11 @@ body {
     border: 10px solid black;
     border-radius: 15%;
 }
+
+.credit_text {
+    text-align: center;
+    font-family: "Smythe", sans-serif;
+    font-size: 24px;
+    justify-self: flex-end;
+    margin-top: 125px;
+}

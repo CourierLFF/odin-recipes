@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(123, 114, 129);
+    background-image: url(images/kitchen.jpg);
+    background-position: center;
 }
 
 .header {

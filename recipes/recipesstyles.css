@@ -1,3 +1,10 @@
 body {
-    background-color: rgb(123, 114, 129);
+    background-image: url(/images/kitchen.jpg);
+    background-position: center;
+    font-family: "Smythe", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
 }

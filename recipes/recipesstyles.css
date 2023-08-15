@@ -19,10 +19,13 @@ h1 {
 
 
 .bottom_block {
+    margin-top: 32px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: rgba( 192, 192, 192, 25%);
+    border: 4px black solid;
 }
 
 h2 {
